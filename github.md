@@ -1,5 +1,5 @@
 
-# Github Projects
+# github
 
 Github projects for AI learning  
 
@@ -31,4 +31,4 @@ Computation using data flow graphs for scalable machine learning [https://tensor
 ## AI
 
 [lipiji/AIStartups](https://github.com/lipiji/AIStartups)  
-与人工智能相关的创业公司或团队。  
+与人工智能相关的创业公司或团队  
