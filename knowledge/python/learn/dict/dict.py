@@ -1,5 +1,16 @@
 
 # dict表示字典，使用{}表示，存储key:value对
+
+# 不可变量可以用为key，包括字符串，整数，小数，元组。可变量不可作为key，包括列表，字典
+# python使用key的hash作为存储地址，因为可变量的hash值会变化，导致找不到原存储值，所以要求Key是不可变量
+a = {
+    'name': 'houchenl',
+    22: 'age',
+    1.68: 'weight',
+    (1, 2, 3): 2
+}
+print(a)    # {'name': 'houchenl', 22: 'age', 1.68: 'weight', (1, 2, 3): 2}
+
 # 使用len()函数可以计算所有集合的大小，包括dict
 d = {
     'Adam': 95,
