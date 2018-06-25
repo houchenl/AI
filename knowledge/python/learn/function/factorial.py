@@ -21,6 +21,7 @@ def foo2(n):
         return n * foo2(n - 1)
     else:
         return n
+
 print(foo2(-1))
 print(foo2(0))
 print(foo2(1))
