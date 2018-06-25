@@ -50,3 +50,7 @@ Scikit-Learn是用Python开发的机器学习库，其中包含大量机器学�
 
 [lipiji/AIStartups](https://github.com/lipiji/AIStartups)  
 与人工智能相关的创业公司或团队  
+
+[owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)  
+A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers  
+
