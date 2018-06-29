@@ -1,7 +1,7 @@
 
 # access_mode
 
-文件读写模式
+文件读写模式，`open(file_name [, access_mode][, buffering])`
 
 
 | 模式  | 描述 |
