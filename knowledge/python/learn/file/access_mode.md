@@ -20,6 +20,9 @@
 | ab+  |  以二进制格式打开一个文件用于追加。如果该文件已存在，文件指针将会放在文件的结尾。如果该文件不存在，创建新文件用于读写。 |
 
 
+<img src="https://raw.githubusercontent.com/houchenl/AI/master/images/access_mode.png">
+
+
 | 模式      |  r  | r+ | w  | w+ | a |  a+ |
 | 读        |  +  | +  |    | +  |   |  +  |
 | 写        |     |  + |  + | +  | + |   + |
